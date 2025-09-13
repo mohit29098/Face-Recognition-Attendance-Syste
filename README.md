@@ -2,6 +2,7 @@
 
 
 
+<img width="1366" height="768" alt="Face Recognition and Attendance System Website Features_20250911_130933_0000_transfer_2025-09-13_231317" src="https://github.com/user-attachments/assets/279a2724-754a-4912-b54d-f22f842cd1f7" />
 
 
 Here’s what I’ll give you:
